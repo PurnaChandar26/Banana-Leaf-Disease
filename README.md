@@ -24,6 +24,8 @@ To test the model on a directory of images, run the test.py script with the --di
 
 ## Results
 The model achieved an accuracy of 95% on the test dataset. Below is a sample output of the model:
+![Screenshot 2023-05-06 000253](https://user-images.githubusercontent.com/97793147/236633599-7cc66489-949f-4143-83ac-8729ddb38903.png)
+
 
 ## Conclusion
 This project demonstrates the effectiveness of computer vision techniques and machine learning algorithms in detecting banana leaf diseases. The model can be further improved by increasing the size of the dataset and fine-tuning the hyperparameters.
