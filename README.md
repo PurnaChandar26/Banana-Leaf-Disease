@@ -27,6 +27,13 @@ The model achieved an accuracy of 95% on the test dataset. Below is a sample out
 ![Screenshot 2023-05-06 000253](https://user-images.githubusercontent.com/97793147/236633599-7cc66489-949f-4143-83ac-8729ddb38903.png)
 
 
+confusion matrix:
+
+
+![image](https://github.com/PurnaChandar26/Banana-Leaf-Disease/assets/97793147/0bc05ef4-2fc1-4be2-a153-38a45f307fb8)
+
+
+
 ## Conclusion
 This project demonstrates the effectiveness of computer vision techniques and machine learning algorithms in detecting banana leaf diseases. The model can be further improved by increasing the size of the dataset and fine-tuning the hyperparameters.
 
