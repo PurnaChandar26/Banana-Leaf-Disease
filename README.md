@@ -11,7 +11,7 @@ The project requires the following dependencies:
 2. OpenCV 4.5.1 or higher
 3. TensorFlow 2.4.1 or higher
 4. Keras 2.4.3 or higher
-5. NumPy 1.19.3 or higher
+5. NumPy 1.19.3 or higher 
 6. Matplotlib 3.3.2 or higher
 7. Scikit-learn 0.23.2 or higher
 
