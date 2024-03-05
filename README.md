@@ -7,7 +7,7 @@ The dataset used in this project consists of images of banana leaves infected wi
 ## Dependencies
 The project requires the following dependencies:
 
-1. Python 3.6 or higher
+1. Python 3.6 or higher 
 2. OpenCV 4.5.1 or higher
 3. TensorFlow 2.4.1 or higher
 4. Keras 2.4.3 or higher
